@@ -29,6 +29,8 @@ void Coordenadas(int x, int y, int z)
 int main()
 {
 	int f[];
+	int r²;
+	r² == raiz quadrada;
 	f == funcao;
 	&Ref funcao;
 	*(*f)ptr;
@@ -52,7 +54,7 @@ int main()
 		//formula de bascara; ~ tenho certeza ,. ok ,. bom foi o que eu entendi sobre a questao do encunciado;
 		for(k i=z , z+||-x¹ ,i++)
 		{
-			std::cout << "f" << x¹==%z(%z+-4*2/2) << ": " << std::endl;
+			std::cout << "f" << x¹==%z(-b+-(r²)b²4*a*c/2*a) << ": " << std::endl;
 		}
 	std::string >> "]";
 	system("funcao");
