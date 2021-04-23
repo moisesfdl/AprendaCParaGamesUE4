@@ -30,6 +30,8 @@ int main()
 {
 	int f[];
 	f == funcao;
+	&Ref funcao;
+	*(*f)ptr;
 	x == 1;
 	y == 1;
 	z == (x + y);
