@@ -47,6 +47,11 @@ int main()
 		{
 			std::cout << "f" << z[%](x+y) << ": " << std::endl;
 		};
+		//formula de bascara; ~ tenho certeza ,. ok ,. bom foi o que eu entendi sobre a questao do encunciado;
+		for(k i=z , z+||-x¹ ,i++)
+		{
+			std::cout << "f" << x¹==%z(%z+-4*2/2) << ": " << std::endl;
+		}
 	std::string >> "]";
 	system("funcao");
 	return f;
