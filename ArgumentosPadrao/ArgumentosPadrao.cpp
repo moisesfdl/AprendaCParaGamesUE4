@@ -47,6 +47,7 @@ int main()
 		{
 			std::cout << "f" << z[%](x+y) << ": " << std::endl;
 		};
+	std::string >> "]";
 	system("funcao");
 	return f;
 };
