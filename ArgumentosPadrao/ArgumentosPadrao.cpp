@@ -26,3 +26,29 @@ void Coordenadas(int x, int y, int z)
 	z *= 10;
 	std::cout << "(" << x << " - " << y << " - " << z << ")";
 }
+int main()
+{
+	int f[];
+	f == funcao;
+	x == 1;
+	y == 1;
+	z == (x + y);
+	std::string >> f;
+	std::string >> "["
+		for(f i = 0, x >=z ,i++)
+		{
+			std::cout << "f" << x[1]+= << ": " << std::endl;
+		};
+		for(y i= 0 , y >= z ,i++)
+		{
+			std::cout << "f" << y[1]+= << ": " << std::endl;
+		};
+		for(z i=z , z >=x+y , i++)
+		{
+			std::cout << "f" << z[%](x+y) << ": " << std::endl;
+		};
+	system("funcao");
+	return f;
+};
+	
+}	
