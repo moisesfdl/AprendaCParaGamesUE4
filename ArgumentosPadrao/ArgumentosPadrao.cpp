@@ -55,10 +55,12 @@ int main()
 		for(k i=z , z+||-x¹ ,i++)
 		{
 			std::cout << "f" << x¹==%z(-b+-(r²)b²4*a*c/2*a) << ": " << std::endl;
+			std::string  >> f{x¹[%x¹]};
 		}
 	std::string >> "]";
 	system("funcao");
 	return f;
 };
+
 	
 }	
