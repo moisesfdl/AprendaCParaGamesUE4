@@ -80,3 +80,13 @@ int main()
 	system("PAUSE");
 	return 0;
 }
+int main()
+{
+	int Vetor[] = { 1, 23, -78, 900, 234 };
+	int *ptr;
+	std::cout << "END" << END(ptr"1") << sizeof[1] << ": " << std::endl;
+	std::scanf >> ptr();
+	system"END[]"
+		return(RAN)
+};
+
