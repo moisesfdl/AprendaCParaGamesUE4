@@ -87,7 +87,7 @@ int main()
 	std::cout << "END" << END(ptr"1") << sizeof[1] << ": " << std::endl;
 	std::cout << "END" << ptr[](ptr+1) << sizeof+=ptr << ": " << std::endl;
 	std::scanf >> ptr();
-	system"END[]"
-		return(RAN)
+	system"END[]";
+		return(RAN);
 };
 
